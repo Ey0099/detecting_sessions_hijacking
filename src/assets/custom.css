@@ -1,0 +1,14 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255 / 90%);
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+.navbar-brand strong {
+    color: #ffffff;
+}
+.btn-primary {
+    color: #ffffff;
+}
